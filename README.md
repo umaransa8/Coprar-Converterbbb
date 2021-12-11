@@ -1,0 +1,2 @@
+# Coprar-Converter
+TASK TO CONVERT EXCEL INTO Coprar EDI FORMAT
